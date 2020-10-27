@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110554751923",
+    "firebase_url": "https://mealbrain-8f09a.firebaseio.com",
+    "project_id": "mealbrain-8f09a",
+    "storage_bucket": "mealbrain-8f09a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110554751923:android:2601a86d8cab19f0d361c6",
+        "android_client_info": {
+          "package_name": "com.example.meal_brain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110554751923-cf2a08otkj40op15l83j2lpfd1b75qi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkozatkgKdJaHw0gKtpEE58tePWYX7Dls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110554751923-cf2a08otkj40op15l83j2lpfd1b75qi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
